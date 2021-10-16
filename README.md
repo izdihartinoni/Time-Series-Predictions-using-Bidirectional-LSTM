@@ -2,7 +2,7 @@
 Submission 2 - Time Series Belajar Pengembangan Machine Learning - Dicoding
 Author : Hazmi Cokro
 
-Dataset : "https://data.world/data-society/global-climate-change-data"
+Dataset : "https://www.kaggle.com/mahirkukreja/delhi-weather-datata"
 
 MAE < 10 %
 
